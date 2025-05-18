@@ -1,0 +1,10 @@
+# env
+*env
+*.env
+
+# config
+.idx/
+.vscode
+
+# python things
+*__pycache__
