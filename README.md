@@ -1,4 +1,4 @@
-# NLP Text Processing Library
+# NLP Techniques From Scratch
 
 This Python project provides a simple implementation for performing basic Natural Language Processing (NLP) tasks on text data. It includes functionalities for:
 
