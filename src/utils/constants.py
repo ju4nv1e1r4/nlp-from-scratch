@@ -37,3 +37,5 @@ solutions to open mathematical problems, showing incredible promise for applicat
 """
 
 example_text_03="""You're so funny"""
+
+example_text_04="""ytranquilize"""
